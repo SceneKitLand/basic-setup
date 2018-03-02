@@ -3,4 +3,4 @@
 
 It includes Lights, Camera, Floor and Player.
 
-<img width="100%" src="basic-setup.png" alt="screenshot">
+<img width="66%" src="basic-setup.png" alt="screenshot">
